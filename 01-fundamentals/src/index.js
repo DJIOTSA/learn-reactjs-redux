@@ -1,9 +1,6 @@
-import React from 'react'
+import React from "react";
+import ReactDom from 'react-dom/client';
+import BookList from './BookList';
 
-const index = () => {
-  return (
-    <div>index</div>
-  )
-}
-
-export default index
+const root = ReactDom.createRoot(document.getElementById('root'))
+root.render(<BookList />)

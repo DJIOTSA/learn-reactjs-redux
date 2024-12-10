@@ -543,7 +543,7 @@ const Book = () => {
 ```js
 const author = 'Jordan Moore';
 const Book = () => {
-  const title = 'Interesting Facts For Curious Mindssssss';
+  const title = 'Interesting Facts For Curious Minds';
   return (
     <article className='book'>
       <img
