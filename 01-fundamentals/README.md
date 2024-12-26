@@ -1,12 +1,11 @@
 # React Fundamentals
+[My reactjs fundamentals project (render cloud)](https://amazon-best-sellers-reactjs-funcdamental.onrender.com/)
 
-#### React Course
+[My reactjs fundamentals project (netlify cloud)](https://reactjs-fundamentals-project.netlify.app/)
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+#### React Course Infos
 
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+[React Udemy Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
 #### Folder Structure
 
